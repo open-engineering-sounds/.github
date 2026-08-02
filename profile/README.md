@@ -2,6 +2,8 @@
 
 Engineering the complete lifecycle of sound for AI-native, open engineering systems.
 
+![Open Engineering Sounds hero-banner.png](../assets/hero-banner.png)
+
 Open Engineering Sounds is the home of reusable sound capabilities within the Open Engineering ecosystem.
 
 Rather than treating audio as a collection of files, Open Engineering models sound as a first-class engineering discipline with semantic metadata, reusable capabilities, traceable workflows, and AI-driven automation.
